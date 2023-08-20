@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- CSS Link -->
   <link rel="stylesheet" href="style.css">
-  <title>Netflix Logo</title>
+  <title>Sivachandrika Logo</title>
 </head>
 <body>
   
@@ -19,7 +19,7 @@
     <div class="circle-part-to-cover-lower-part-of-the-logo"></div>
   </div>
 
-  <div class="text-logo">NETFLIX</div>
+  <div class="text-logo">SIVACHANDRIKA</div>
 
 </body>
 </html>
